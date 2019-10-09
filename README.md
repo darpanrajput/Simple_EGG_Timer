@@ -4,3 +4,6 @@ Simple_Egg_Timer
 )
 # Time 
 you can set time using the seekbar
+# Go
+click go button to start the timer
+
